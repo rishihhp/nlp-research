@@ -10,20 +10,6 @@ This research explores the correlation between the length of an `intents.json` f
 
 ---
 
-## 📂 Repository Structure
-
-```
-📦chatbot-runtime-analysis/
-├── paper.pdf                 # Full research paper (published)
-├── intents_samples/         # Sample intents.json files of varying sizes
-├── run_analysis.py          # Script to measure runtime for each file size
-├── regression_model.ipynb   # Jupyter notebook with regression analysis
-├── plots/                   # Graphs and visualizations
-└── README.md                # This file
-```
-
----
-
 ## 🔍 Introduction
 
 With over **1.4 billion chatbot users** globally, the efficiency of natural language processing systems is more critical than ever. This study investigates how the **size of the intents.json file**, a core input to most chatbot architectures, impacts the **runtime performance** of Python-based NLP frameworks.
