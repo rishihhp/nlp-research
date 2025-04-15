@@ -49,7 +49,7 @@ This supports the hypothesis of **O(N)** runtime complexity, with runtime scalin
 
 ## 📈 Visualizations
 
-All plots are available in the `plots/` directory. The regression line fit confirms the linearity of the runtime behavior with minimal deviation.
+All plots are available in the `script/` directory. The regression line fit confirms the linearity of the runtime behavior with minimal deviation.
 
 ---
 
@@ -71,8 +71,7 @@ This study provides a **baseline for understanding and predicting the runtime** 
 ## 👨‍💻 Author
 
 **Rishi Hariharaprasad**  
-12th Grade Programmer, Brandeis High School  
-Rise Finalist · Congressional App Winner · International Hackathon Finalist  
+Rise Finalist · Congressional App Winner · 2x International Hackathon Winner  
 
 > "I wrote this paper to better understand the ML algorithms used in my app and how to read data more efficiently."
 
